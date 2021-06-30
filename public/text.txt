@@ -1,0 +1,456 @@
+
+HOMEABOUT
+PRODUCTS
+NEWS
+LOCATIONSPAGES
+
+
+
+
+USA, LOS ANGELES, 901 East E Street, Wilmington, CA 90744
+
++1 (800) 123 1234
++1 (800) 123 1234
+
+INSPIRED BY THE BEAUTY
+Of Nature
+Wedding
+bouquets
+more info
+Professional
+decorations
+more info
+Workshop
+on floristics
+more info
+What We
+Offer
+about our services
+
+Wedding Bouquets
+We understand your day is very special, and we offer a very personalized service for your most important event. We custom make beautiful wedding flowers, bridal bouquets and bridesmaid bouquets, the groom’s boutonniere’s, and any bouquets for your wedding.
+
+Flower Decoration
+Extensively delivered to our clients on time, Flower Decoration services are rendered by most skillful and experienced professionals of our team. Apart from this, our low rates and ability to accomplish all the clients’ needs make us a preferred choice.
+
+Houseplants
+With an extensive variety of houseplants offered by our Flower Boutique, you can easily transform your home interior and exterior and create an amazingly bright and unforgettable atmosphere of colorful greenery. We will deliver all houseplants to your doorstep for free.
+
+Wonderful Gifts
+from Flower Boutique
+Flowers are great gifts and the ones ordered at
+our shop are truly wonderful. Here’s what we offer:
+
+Bouquets & Compositions
+Flowers in Boxes
+Indoor Flowers
+Decorations with Balloons
+Workshops on Floristics
+Featured Products
+
+Serenity
+A colorful combination of different roses makes this bouquet look stunning.
+
+$25.90
+
+
+Cinnamon Cider Roses
+Warm, spicy and comforting, this rich bouquet is unique and bold in color.
+
+$17.80
+
+
+All The Frills
+This is a sophisticated combination of multi-hued flowers for true summer fans.
+
+$25.90
+
+
+Deluxe Hugs and Kisses
+One of our most popular bouquets, it captures the many moods of the heart.
+
+$25.90
+
+
+Pink Sapphire
+Feel the glory of pink color with this wonderful pink & white floral combination.
+
+$25.90
+
+
+Autumn Harvest Bouquet
+Celebrate the fall with our selection of the best autumn flowers in this bouquet.
+
+$17.80
+
+
+Serenity
+A colorful combination of different roses makes this bouquet look stunning.
+
+$25.90
+
+
+Cinnamon Cider Roses
+Warm, spicy and comforting, this rich bouquet is unique and bold in color.
+
+$25.90
+
+Latest From The Blog
+floral news & events
+
+March
+28
+10 Mind-Blowing Flower Facts!
+Some of you may already know and others you may just learn about today, either way, you can never know enough fun flower facts. Not only do flowers offer us visual and emotional...
+
+March
+24
+Top 5 Fall Flower Trends Forecast
+This bountiful season is approaching with exciting inspirational florals that encompass the beginning of this wondrous time of the year. Floral trends are defined by something...
+
+Testimonials
+what our clients say
+
+Thank you for your prompt attention. My family already called to tell me that, once again, Flower Boutique has done an outstanding job. I use your services often and we will recommend you.
+
+Linda Johnson
+(housewife)
+Thank you so much for delivering beautiful flowers to my parents today. My mother called to say how gorgeous they were! I am really delighted with your level of service and I hope to order more flowers from you.
+
+Sara Parker
+(actress)
+All I can say is WOW! You definitely have a customer for life. I have been looking for a really high - quality and affordable flower provider for years, and now I’m so glad I have eventually found it.
+
+April Smith
+(manager)
+NEWS & EVENTS
+TERMS & CONDITIONS
+PRIVACY POLICY
+RETURN POLICY
+ABOUT US
+NEWS
+PRODUCTS
+TESTIMONIALS
+ADDRESS
+USA, LOS ANGELES,
+901 East E Street,
+Wilmington, CA 90744
+
+PHONES & E-MAIL
++1 (800) 123 1234, +1 (800) 123 1234
+E-mail: mail@demolink.org
+
+NEWSLETTER
+info@demolink.org
+   
+Flower boutique © 2021 Privacy Policy
+
+<div class="container">
+      <div class="row">
+        <div class="col-3">
+          <div class="logo">
+            <img src="public/images/brand-light-254x54.png" alt="">
+          </div>
+        </div>
+        <div class="col-9">
+
+          <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container-fluid">
+
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item px-5">
+                    <a class="nav-link active" aria-current="page" href="#">
+                      <h6>HOME</h6>
+                    </a>
+                  </li>
+
+                  <li class="nav-item dropdown">
+                    <a class="nav-link " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                      aria-expanded="false">
+                      <h6> ABOUT</h6>
+                    </a>
+                    <ul class="dropdown-menu dropdown_menu--animated dropdown_menu-6" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li>
+                        <hr class="dropdown-divider">
+                      </li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                      aria-expanded="false">
+                      <h6>PRODUCTS</h6>
+                    </a>
+                    <ul class="dropdown-menu dropdown_menu--animated dropdown_menu-6" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li>
+                        <hr class="dropdown-divider">
+                      </li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link " href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                      aria-expanded="false">
+                      <h6>NEWS</h6>
+                    </a>
+                    <ul class="dropdown-menu dropdown_menu--animated dropdown_menu-6" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="#">Action</a></li>
+                      <li><a class="dropdown-item" href="#">Another action</a></li>
+                      <li>
+                        <hr class="dropdown-divider">
+                      </li>
+                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">
+                      <h6>LOCATIONS</h6>
+                    </a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">
+                      USA, LOS ANGELES, 901 East E
+                      <br>
+                        Street, Wilmington, CA 90744
+                    </a>
+                  </li>
+                  <li class="nav-item">
+
+
+                    <a class="nav-link" href="#">
+                      +1 (800) 123 1234
+                      <br>
+                      +1 (800) 123 1234
+                    </a>
+
+
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  //MENUMIAN
+  <div class="menumain ">
+      <div class="container-fluid">
+       <div class="row row-30 row-md-50">
+         <div class="col-sm-4 col-flex px-3">
+           <div class="img img-primary img-clone" style="background-image:url(public/images/bg-image-banner-5.jpg) ; background-size: cover;">
+             <h2 class="banner">
+               Wedding
+               <br>
+               <span class="text">bouquets</span>
+             </h2>
+             <br>
+             <br>
+             <div class="info">
+               <a href="#">more info <i class="fas fa-arrow-right"></i></a>
+             </div>
+           </div>
+         </div>
+         <div class="col-sm-4 col-flex px-3">
+           <div class="img img-primary img-clone" style="background-image:url(public/images/bg-image-banner-6.jpg) ; background-size: cover;">
+             <h2 class="banner">
+               Professional
+               <br>
+               <span class="text">decorations</span>
+             </h2>
+             <br>
+             <br>
+             <div class="info">
+               <a href="#">more info <i class="fas fa-arrow-right"></i></a>
+             </div>
+             
+           </div>
+         </div>
+         <div class="col-sm-4  col-flex px-3">
+           <div class="img img-primary img-clone" style="background-image:url(public/images/bg-image-banner-7.jpg) ; background-size: cover;">
+             <h2 class="banner">
+               Workshop
+               <br>
+               <span class="text">on floristics</span>
+             </h2>
+             <br>
+             <br>
+             <div class="info">
+               <a href="#">more info <i class="fas fa-arrow-right"></i></a>
+             </div>
+           </div>
+         </div>
+       </div>
+      </div>
+     </div>
+     ///map
+     <div class="map">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4719898203075!2d106.75768541462317!3d10.851660492270515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527e9d1f78727%3A0xd942ff19a56d1de4!2zQ2FvIMSR4bqzbmcgQ8O0bmcgTmdo4buHIFRo4bunIMSQ4bupYyAtIGPhu5VuZyBDaMawxqFuZyBExrDGoW5n!5e0!3m2!1svi!2s!4v1623467388006!5m2!1svi!2s" width="1510" height="455" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    //<i class="fa fa-sliders<div class="slide">
+      <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+            aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+            aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+            aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="public/images/slider-2-1-1920x737.jpg" class="d-block w-100" alt="...">
+
+            <div class="text">
+              <h5>First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p>
+
+
+
+
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img src="public/images/slider-2-2-1920x737.jpg" class="d-block w-100" alt="...">
+
+
+            <div class="text">
+              <h5>First slide label</h5>
+              <p>Some representative placeholder content for the first slide.</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+    </div>" aria-hidden="true"></i>
+    ///cảousel
+    <div class="container text-center my-3">
+        <h2 class="font-weight-light">Bootstrap Multi Slide Carousel</h2>
+        <div class="row mx-auto my-auto justify-content-center">
+            <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        <div class="col-md-3">
+                          <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="public/images/product-category-10-270x233.jpg" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-md-3">
+                          <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="public/images/product-category-11-270x233.jpg" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-md-3">
+                          <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="public/images/product-category-12-270x233.jpg" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-md-3">
+                          <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="public/images/product-category-13-270x233.jpg" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-md-3">
+                          <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="public/images/product-category-14-270x233.jpg" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="col-md-3">
+                          <div class="card" style="width: 18rem;">
+                            <img class="card-img-top" src="public/images/product-category-15-270x233.jpg" alt="Card image cap">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              <a href="#" class="btn btn-primary">Go somewhere</a>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                      <div class="col-md-3">
+                        <div class="card" style="width: 18rem;">
+                          <img class="card-img-top" src="public/images/product-category-10-270x233.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="carousel-item">
+                    <div class="col-md-3">
+                      <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="public/images/product-category-11-270x233.jpg" alt="Card image cap">
+                        <div class="card-body">
+                          <h5 class="card-title">Card title</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                </div>
+                <a class="carousel-control-prev bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                </a>
+                <a class="carousel-control-next bg-transparent w-aut" href="#recipeCarousel" role="button" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                </a>
+            </div>
+        </div>
+        <h5 class="mt-2 fw-light">advances one slide at a time</h5>
+        <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="public/images/product-category-10-270x233.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                        the card's content.</p>
+                      <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                  </div>
